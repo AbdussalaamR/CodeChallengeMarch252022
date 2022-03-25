@@ -1,0 +1,16 @@
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\bin\Debug\net5.0\CodeChallengeMar25.exe
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\bin\Debug\net5.0\CodeChallengeMar25.deps.json
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\bin\Debug\net5.0\CodeChallengeMar25.runtimeconfig.json
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\bin\Debug\net5.0\CodeChallengeMar25.runtimeconfig.dev.json
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\bin\Debug\net5.0\CodeChallengeMar25.dll
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\bin\Debug\net5.0\ref\CodeChallengeMar25.dll
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\bin\Debug\net5.0\CodeChallengeMar25.pdb
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\obj\Debug\net5.0\CodeChallengeMar25.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\obj\Debug\net5.0\CodeChallengeMar25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\obj\Debug\net5.0\CodeChallengeMar25.AssemblyInfoInputs.cache
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\obj\Debug\net5.0\CodeChallengeMar25.AssemblyInfo.cs
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\obj\Debug\net5.0\CodeChallengeMar25.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\obj\Debug\net5.0\CodeChallengeMar25.dll
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\obj\Debug\net5.0\ref\CodeChallengeMar25.dll
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\obj\Debug\net5.0\CodeChallengeMar25.pdb
+C:\Users\HP\RiderProjects\CodeChallengeMar25\CodeChallengeMar25\obj\Debug\net5.0\CodeChallengeMar25.genruntimeconfig.cache
